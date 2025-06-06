@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+# مشروع فريق أطلس
 
-## Project info
+## نبذة عن المشروع
+فريق أطلس هو فريق متخصص في تطوير الحلول الرقمية المبتكرة. نقدم خدمات احترافية في مجالات:
+- تطوير المواقع الإلكترونية
+- تطوير بوتات الديسكورد
+- حلول تقنية متكاملة
 
-**URL**: https://lovable.dev/projects/52680fe8-cfe4-4026-9a69-968f4b2351a9
+## التقنيات المستخدمة
+هذا المشروع مبني باستخدام:
+- React
+- TypeScript
+- Vite
+- Shadcn/UI
+- Tailwind CSS
 
-## How can I edit this code?
+## البدء بالتطوير
 
-There are several ways of editing your application.
+### المتطلبات الأساسية
+- Node.js & npm - [التثبيت باستخدام nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-**Use Lovable**
+### تثبيت المشروع محلياً
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/52680fe8-cfe4-4026-9a69-968f4b2351a9) and start prompting.
+1. استنساخ المشروع
+```bash
+git clone [رابط المستودع]
+cd atlas-project
+```
 
-Changes made via Lovable will be committed automatically to this repo.
+2. تثبيت الاعتمادات
+```bash
+npm install
+```
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3. تشغيل بيئة التطوير
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## المميزات
+- واجهة مستخدم عصرية وسهلة الاستخدام
+- تصميم متجاوب مع جميع الأجهزة
+- دعم كامل للغة العربية
+- أداء عالي وسرعة في التحميل
+- تكامل مع منصات التواصل الاجتماعي
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## المساهمة
+نرحب بمساهماتكم في تطوير المشروع. يمكنكم:
+1. عمل Fork للمشروع
+2. إنشاء فرع جديد للميزة (`git checkout -b feature/amazing-feature`)
+3. عمل Commit للتغييرات (`git commit -m 'إضافة ميزة جديدة'`)
+4. رفع التغييرات (`git push origin feature/amazing-feature`)
+5. فتح طلب Pull Request
 
-**Use GitHub Codespaces**
+## الترخيص
+هذا المشروع مرخص تحت رخصة MIT - انظر ملف [LICENSE](LICENSE) لمزيد من التفاصيل.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/52680fe8-cfe4-4026-9a69-968f4b2351a9) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## التواصل
+- ديسكورد: [مجتمع أطلس](https://discord.gg/Y6Uvf5wS)
+- انستغرام: [@atlasteam.ma](https://www.instagram.com/atlasteam.ma/)
+- جيت هب: [Atlas-Assembly](https://github.com/Atlas-Assembly)
